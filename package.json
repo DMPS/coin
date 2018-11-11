@@ -1,0 +1,26 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "browser-sync public -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMPS/coin.git"
+  },
+  "keywords": [
+    "AR"
+  ],
+  "author": "Dalton Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMPS/coin/issues"
+  },
+  "homepage": "https://github.com/DMPS/coin#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
